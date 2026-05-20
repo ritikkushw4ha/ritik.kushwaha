@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Ritik
 
-<!--
-**ritikkushw4ha/ritikkushw4ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer  
+🚀 Focused on Backend & REST APIs  
+🌱 Currently learning scalable system design
 
-Here are some ideas to get you started:
+## Tech Stack
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+- LinkedIn
+- Portfolio
