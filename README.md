@@ -1,8 +1,8 @@
-# Hi 👋, I'm Ritik
+# Hi, I'm Ritik
 
-💻 MERN Stack Developer  
-🚀 Focused on Backend & REST APIs  
-🌱 Currently learning scalable system design
+MERN Stack Developer  
+Focused on Backend & REST APIs  
+Currently learning scalable system design
 
 ## Tech Stack
 - React.js
